@@ -1,0 +1,44 @@
+{
+  "projects": [
+    {
+      "name": "Montar equipe de Desenvolvimento",
+      "budget": "5000",
+      "category": {
+        "id": "4",
+        "name": "Planejamento"
+      },
+      "cost": 200,
+      "services": [
+        {
+          "name": "Contratar Dev Node.js",
+          "cost": "200",
+          "description": "Tem que ser um pleno.",
+          "id": "f6a08db6-39ea-4c61-a3c2-3bd3ca3c6b8a"
+        }
+      ],
+      "id": 2
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Infra"
+    },
+    {
+      "id": 2,
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": 3,
+      "name": "Design"
+    },
+    {
+      "id": 4,
+      "name": "Planejamento"
+    },
+    {
+      "id": 5,
+      "name": "Manutenção"
+    }
+  ]
+}
